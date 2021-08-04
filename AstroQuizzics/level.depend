@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1623000181 source:/home/nxumalo/Desktop/C++Works/level/main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<Levels.h>
+	<Player.h>
+
+1622997706 source:/home/nxumalo/Desktop/C++Works/level/Levels.cpp
+	"Levels.h"
+	<iostream>
+	"Question_Operator.h"
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<cctype>
+	<string>
+	<sstream>
+
+1622995444 /home/nxumalo/Desktop/C++Works/level/Levels.h
+	<fstream>
+	"Question_Operator.h"
+	<iostream>
+
+1622995193 source:/home/nxumalo/Desktop/C++Works/level/Question_Operator.cpp
+	<iostream>
+	"Question_Operator.h"
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	"Levels.h"
+	<vector>
+
+1622991308 /home/nxumalo/Desktop/C++Works/level/Question_Operator.h
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1622992217 source:/home/nxumalo/Desktop/C++Works/level/Player.cpp
+	"Player.h"
+	<iostream>
+	<Levels.h>
+
+1620981817 /home/nxumalo/Desktop/C++Works/level/Player.h
+	<string>
+	<iostream>
+
+1622995444 /home/nxumalo/Desktop/C++Works/level//Levels.h
+	<fstream>
+	"Question_Operator.h"
+	<iostream>
+
+1622991308 /home/nxumalo/Desktop/C++Works/level//Question_Operator.h
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1620981817 /home/nxumalo/Desktop/C++Works/level//Player.h
+	<string>
+	<iostream>
+

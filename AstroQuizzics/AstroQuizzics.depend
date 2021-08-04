@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1623417590 source:/home/nxumalo/Desktop/C++Works/AstroQuizzics/Levels.cpp
+	"Levels.h"
+	<iostream>
+	"Question_Operator.h"
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<cctype>
+	<string>
+	<sstream>
+
+1623417604 /home/nxumalo/Desktop/C++Works/AstroQuizzics/Levels.h
+	<fstream>
+	"Question_Operator.h"
+	<iostream>
+
+1622991308 /home/nxumalo/Desktop/C++Works/AstroQuizzics/Question_Operator.h
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1623672153 source:/home/nxumalo/Desktop/C++Works/AstroQuizzics/main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	"Levels.h"
+	"Player.h"
+	<cstdlib>
+	<ctime>
+	<queue>
+
+1622992217 source:/home/nxumalo/Desktop/C++Works/AstroQuizzics/Player.cpp
+	"Player.h"
+	<iostream>
+	<Levels.h>
+
+1620981817 /home/nxumalo/Desktop/C++Works/AstroQuizzics/Player.h
+	<string>
+	<iostream>
+
+1622995193 source:/home/nxumalo/Desktop/C++Works/AstroQuizzics/Question_Operator.cpp
+	<iostream>
+	"Question_Operator.h"
+	<fstream>
+	<regex>
+	<iterator>
+	<stdio.h>
+	"Levels.h"
+	<vector>
+

@@ -1,0 +1,17 @@
+A planet is said to be at aphelion when it is? w) closest to the sun x) farthest from the sun y) at it's highest point above the ecliptic z) at it's lowest point below the ecliptic| X -- FARTHEST FROM THE SUN; 
+At any time we may describe the position of an inferior planet by the angle it makes with the sun as seen from the earth. This angle is called the? w) ecliptic x) epicycle y) elongation z) proxima| Y -- ELONGATION;
+Which of the following planets has the greatest eccentricity? w) Pluto x) Jupiter y) Mars z) Mercury| W -- PLUTO 2;
+The largest moon in our solar system has an atmosphere that is denser than the atmosphere of Mars. The name of this moon is? w) Titan x) Ganymede y) Triton z) Io| W -- TITAN; 
+On which of the following planets would the sun rise in the west? w) Saturn x) Pluto y) Mercury z) Venus| Z -- VENUS;
+Which planet seems to be turned on its side with an axis tilt of 98 degrees? w) Uranus x) Pluto y) Neptune z) Saturn| W -- URANUS 2; 
+The angle that the full moon takes up in the night sky is equal to which of the following values? w) 1/8 degree x) 1/2 degrees y) 1 degree z) 2 degrees| X -- 1/2 DEGREE;
+The period from one full moon to the next is? w) 30.3 days x) 30 days y) 29.5 days z) 28 days| Y -- 29.5 DAYS; 
+When a superior planet is at opposition it is making an angle of how many degrees with the sun? w) 0 degrees x) 45 degrees y) 90 degrees z) 180 degrees| Z -- 180 DEGREES 2; 
+Multiple Choice: The word Albedo refers to which of the following? w) The wobbling motion of a planet x) The amount of light a planet reflects y) The phase changes of a planet z) The brightness of a star| X -- THE AMOUNT OF LIGHT THE PLANET REFLECTS; 
+Unmanned spacecraft have landed on Mars? a) true b) false | True ; 
+The Earth's moon is the largest moon in the solar system ? a) true b) false | False ;
+Humans have never detected a planet outside the solar system ? a) true b) false | False;
+ Andromeda is the nearest major galaxy to the Milky Way ? a) true b) false | True;
+Saturn is the largest planet in the solar system ? a) true b) false | False;
+It is generally believed that a supermassive black hole lies at the center of the Milky Way ? a) true b) false | True ;
+Scientists believe that the universe is about 13.8 billion years old; True ; It takes more than a year for light to travel between the Earth and the Sun ? a) true b) false | False;
